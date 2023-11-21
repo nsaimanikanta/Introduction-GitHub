@@ -1,3 +1,3 @@
-This is my first commit !
+This commit is to test the merge confilct from feature beanch !
 
 Adding the second commit !
